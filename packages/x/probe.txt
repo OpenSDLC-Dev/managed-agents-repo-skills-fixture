@@ -1,0 +1,1 @@
+Synthetic file under packages/x for nested skill discovery. Marker: REPO_PACKAGE_X_FILE.
