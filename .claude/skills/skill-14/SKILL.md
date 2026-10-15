@@ -1,0 +1,1 @@
+---\nname: skill-14\ndescription: Synthetic announcement bound marker for skill-14.\n---\n\n# skill-14\n\nMarker: REPO_BOUND_skill-14.\n
